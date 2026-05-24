@@ -12,6 +12,7 @@ const PrivateRouter = ({ children }) => {
     return <Navigate to='/login'></Navigate>
   }
   return children;
+
 };
 
 export default PrivateRouter;
