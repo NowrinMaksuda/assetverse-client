@@ -10,7 +10,7 @@ const EmployeRoute = ({children}) => {
   return <Navigate to="/login" replace></Navigate>;
   }
 
-    return children;
+    return chldren;
 };
 
 
