@@ -21,7 +21,7 @@ const Error = () => {
           to="/"
           className="btn text-white border-none"
           style={{ backgroundColor: '#28A745' }}
-        
+        >
 
           ⬅ Back to Home
         </Link>
